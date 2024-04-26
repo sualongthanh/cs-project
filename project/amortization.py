@@ -77,12 +77,3 @@ m = loan*rate*number_year
 print(loan*rate*number_year)
 print(total_interest-m)
 print(loan+total_interest)   
-
-
-
-
-
-
-
-
-
